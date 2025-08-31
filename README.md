@@ -8,7 +8,6 @@ The repo includes fun games 🎮, simple utilities 🔧, and interactive simulat
 # 📌 Projects
 
 ### 🃏 Blackjack Game
-
 A text-based Blackjack game where you play against the computer dealer. Try to get as close to 21 as possible without going bust!
 
 ### 🔐 Caesar Cipher
