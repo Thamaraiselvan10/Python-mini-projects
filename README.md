@@ -5,8 +5,8 @@ Each project focuses on practicing core programming concepts like loops, conditi
 
 The repo includes fun games 🎮, simple utilities 🔧, and interactive simulations ☕ — all written in Python 3.
 
+---
 # 📌 Projects
-
 ### 🃏 Blackjack Game
 A text-based Blackjack game where you play against the computer dealer. Try to get as close to 21 as possible without going bust!
 
@@ -32,13 +32,13 @@ Classic Rock-Paper-Scissors game against the computer with random outcomes.
 
 
 
-
+---
 ## ⚙️ Tech Stack
 
 Language: Python 3
 
 Concepts: Loops, Conditionals, Functions, Random Module, Data Structures
-
+---
 ## ▶️ How to Run
 
 Clone this repository:
@@ -62,6 +62,7 @@ You can check with:
 ```
 python --version
 ```
+---
 ## 🚀 About Me
 
 I started learning Python recently and built these projects as practice.
