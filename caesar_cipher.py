@@ -8,6 +8,7 @@ def encrypt(text,shift):
         encoded_text+=alphabet[shift_pos]
     print("your encoded text is : ",encoded_text)
 
+
 def decrypt(text,shift):
     decrypted_text=""
     for letter in text:
